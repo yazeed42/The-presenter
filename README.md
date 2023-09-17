@@ -2,6 +2,7 @@
 
 Project Objectives:
 The primary objectives of this project are twofold:
+
 •	Convert static presentation slides into dynamic, engaging video content.
 
 •	 Assist lecture or video audiences by automatically generating comprehensive notes from the content they attend.
