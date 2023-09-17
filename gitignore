@@ -1,0 +1,45 @@
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine learning datasets and model files
+*.h5
+*.pkl
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE-specific files
+.idea/
+*.iml
+*.suo
+
+# Dependency folders
+node_modules/
+vendor/
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.sqlite
